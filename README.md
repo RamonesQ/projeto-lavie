@@ -18,13 +18,14 @@ Aplicamos nossos conhecimentos em banco de dados relacionais utilizando o MySQL,
 
 Utilizamos também o NodeJs, ExpressJS e conhecimentos sobre API REST para criação de rotas, endpoints, validação de dados e autenticação de usuarios.
 
-## :memo: Funcionalidades a serem criadas: 
+## :memo: Funcionalidades criadas: 
 
-1. CRUD completo para Psicólogos;
-2. Validação de login para Psicólogos;
+1. Validação de login para Psicólogos;
+2. CRUD completo para Psicólogos;
 3. CRUD completo para Pacientes;
 4. CRUD completo para agendamento;
 5. Montar a documentação da API;
+6. Dashboard para visualização de número de pacientes, psicologos e atendimentos
 
 ---
 
